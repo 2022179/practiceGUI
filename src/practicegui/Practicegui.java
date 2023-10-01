@@ -16,10 +16,12 @@ public class Practicegui {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("my first GUI practice");
-        int num;
-        int num2;
+        int num = 10;
+        int num2 = 30;
         int answer;
         
+       answer=  num + num2 ;
+        System.out.println("the practice is great");
     }
     
 }
