@@ -22,6 +22,7 @@ public class Practicegui {
         
        answer=  num + num2 ;
         System.out.println("the practice is great");
+        System.out.println("goodbye");
     }
     
 }
